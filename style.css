@@ -1,0 +1,62 @@
+body{
+    background-color: azure;
+}
+#form{
+    width: 55vw;
+    height: 45vh;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 0;
+    font-size: large;   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    margin-top: 10%;
+    margin-left: 25%;
+    background-color:blueviolet;
+    border-radius: 10%;
+    border-left: 8px solid rgb(24, 5, 79);
+    border-bottom: 8px solid rgb(24, 5, 79);
+}
+
+label{
+    width:200px;
+    float:left;
+    position: relative;
+    top: 10px;
+    color: blanchedalmond;
+    
+
+}
+input{
+   
+    width: 320px;
+    font-size: 15px;
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+#submmit{
+    width: 20%;
+    margin-left: 210px;
+    background-color: tomato;
+    border-radius: 20%;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#error{
+   height: 10%;
+   width: 50%;
+   text-align:left;
+   color: red;
+   font-size: medium;
+   position: relative;
+   top:20%;
+   left: 50%;
+}
+h1{
+   border: 2px solid black;
+   text-align: center;
+}
