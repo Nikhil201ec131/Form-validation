@@ -12,14 +12,15 @@ body{
     position:relative;
     margin-top: 10%;
     margin-left: 25%;
-    background-color:blueviolet;
+    background-color:rgb(226, 43, 116);
     border-radius: 10%;
     border-left: 8px solid rgb(24, 5, 79);
     border-bottom: 8px solid rgb(24, 5, 79);
 }
 
 label{
-    width:200px;
+    width:200rem;
+
     float:left;
     position: relative;
     top: 10px;
